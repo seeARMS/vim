@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/colinarmtrong/src/knox/lib'
+let g:netrw_dirhist_2='/Users/colinarmtrong/src/knox/lib/knox/api'
+let g:netrw_dirhist_3='/Users/colinarmtrong/src/knox-heuristics/lib/knox/heuristics/strategies'
+let g:netrw_dirhist_4='/Users/colinarmtrong/src/knox-heuristics/lib/knox/heuristics'
+let g:netrw_dirhist_5='/Users/colinarmtrong/src/knox-heuristics/db/migrations'
+let g:netrw_dirhist_6='/Users/colinarmtrong/src/knox-heuristics/lib/knox/heuristics'
+let g:netrw_dirhist_7='/Users/colinarmtrong/src/knox-heuristics/db/migrations'
+let g:netrw_dirhist_8='/Users/colinarmtrong/src/knox-heuristics/lib/knox/heuristics'
